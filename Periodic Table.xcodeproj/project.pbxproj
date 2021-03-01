@@ -11,6 +11,7 @@
 		3F47785725EC8A4200767099 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F47785625EC8A4200767099 /* ContentView.swift */; };
 		3F47785925EC8A4400767099 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F47785825EC8A4400767099 /* Assets.xcassets */; };
 		3F47785C25EC8A4400767099 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F47785B25EC8A4400767099 /* Preview Assets.xcassets */; };
+		3F47786525EC8ACB00767099 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F47786425EC8ACA00767099 /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3F47785825EC8A4400767099 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F47785B25EC8A4400767099 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3F47785D25EC8A4400767099 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F47786425EC8ACA00767099 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				3F47785625EC8A4200767099 /* ContentView.swift */,
 				3F47785825EC8A4400767099 /* Assets.xcassets */,
 				3F47785D25EC8A4400767099 /* Info.plist */,
+				3F47786425EC8ACA00767099 /* SwiftyJSON.swift */,
 				3F47785A25EC8A4400767099 /* Preview Content */,
 			);
 			path = "Periodic Table";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F47786525EC8ACB00767099 /* SwiftyJSON.swift in Sources */,
 				3F47785725EC8A4200767099 /* ContentView.swift in Sources */,
 				3F47785525EC8A4200767099 /* Periodic_TableApp.swift in Sources */,
 			);
